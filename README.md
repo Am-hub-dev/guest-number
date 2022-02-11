@@ -1,1 +1,1 @@
-# guest-number
+Guest Number is a number guessing game
